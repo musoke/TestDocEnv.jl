@@ -1,0 +1,7 @@
+name = "TestDocEnv"
+uuid = "1571f01c-2b5b-47c0-84f4-97855682fb65"
+authors = ["Nathan Musoke <nathan.musoke@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
